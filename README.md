@@ -1,7 +1,8 @@
 # Salary-Dashboard
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png]([![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/ba5c38a6-658d-4488-b9ea-8904ce3062b6)](https://github.com/datta116/Salary-Dashboard/blob/e4b1558078086f3d3381ac019a2154a4b630db25/Images/1_Salary_Dashboard_Final_Dashboard.gif))
+![1_Salary_Dashboard.png]
+![image alt] (https://github.com/datta116/Salary-Dashboard/blob/e4b1558078086f3d3381ac019a2154a4b630db25/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
